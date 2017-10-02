@@ -1,0 +1,51 @@
+{
+    "pageNumber": 0,
+    "data": [
+        {
+            "id": "117404477",
+            "title": "\ud560\ub810\ub8e8\uc57c \uc131\uac00\ub300 - \uc8c4\uc9d0 \ub9e1\uc740 \uc6b0\ub9ac \uad6c\uc8fc II",
+            "date_created": "1446048776",
+            "loginId": "1758991",
+            "tags": "",
+            "description": "\uc8c4\uc9d0 \ub9e1\uc740 \uc6b0\ub9ac \uad6c\uc8fc\n\n\ud560\ub810\ub8e8\uc57c \uc131\uac00\ub300",
+            "asset": {
+                "type": "youtube",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/WSwAohHV8GQ\/maxresdefault.jpg",
+                "uploadDate": 1446048776,
+                "videoId": "WSwAohHV8GQ",
+                "title": "\ud560\ub810\ub8e8\uc57c \uc131\uac00\ub300 - \uc8c4\uc9d0 \ub9e1\uc740 \uc6b0\ub9ac \uad6c\uc8fc",
+                "description": "\uc8c4\uc9d0 \ub9e1\uc740 \uc6b0\ub9ac \uad6c\uc8fc\n\n\ud560\ub810\ub8e8\uc57c \uc131\uac00\ub300",
+                "author": "SDCKC",
+                "mediaDuration": 213,
+                "prettyDuration": "00:03:33",
+                "views": "591",
+                "uploadAsset": false,
+                "quality": ""
+            },
+            "parentId": "117404498",
+            "url": "\/new-channel\/\ud560\ub810\ub8e8\uc57c-\uc131\uac00\ub300-\uc8c4\uc9d0-\ub9e1\uc740-\uc6b0\ub9ac-\uad6c\uc8fc\/117404498-117404477"
+        },
+        {
+            "id": "117404476",
+            "title": "[12.13.2015] \uc5ec\ud638\uc640\uc758 \uc601\uad11\uc744 \ubcf4\uac8c \ud558\uc18c\uc11c!",
+            "date_created": "1450477352",
+            "loginId": "1758991",
+            "tags": "",
+            "description": "\uc5ec\ud638\uc640\uc758 \uc601\uad11\uc744 \ubcf4\uac8c \ud558\uc18c\uc11c!\n\n\uc774\uc0ac\uc57c 40:1 ~ 5\n\n\uc2ec\ucc3d\uc11d \ubaa9\uc0ac",
+            "asset": {
+                "type": "youtube",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/WoNG53EakNI\/maxresdefault.jpg",
+                "uploadDate": 1450477352,
+                "videoId": "WoNG53EakNI",
+                "title": "[12.13.2015] \uc5ec\ud638\uc640\uc758 \uc601\uad11\uc744 \ubcf4\uac8c \ud558\uc18c\uc11c!",
+                "description": "\uc5ec\ud638\uc640\uc758 \uc601\uad11\uc744 \ubcf4\uac8c \ud558\uc18c\uc11c!\n\n\uc774\uc0ac\uc57c 40:1 ~ 5\n\n\uc2ec\ucc3d\uc11d \ubaa9\uc0ac",
+                "author": "SDCKC",
+                "mediaDuration": 2666,
+                "prettyDuration": "00:44:26",
+                "views": "458"
+            },
+            "parentId": "117404498",
+            "url": "\/new-channel\/12-13-2015-\uc5ec\ud638\uc640\uc758-\uc601\uad11\uc744-\ubcf4\uac8c-\ud558\uc18c\uc11c\/117404498-117404476"
+        }
+    ]
+}
